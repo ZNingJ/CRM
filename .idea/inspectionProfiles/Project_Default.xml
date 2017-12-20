@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ELValidationInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlDeprecatedTag" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="25">
+            <item index="0" class="java.lang.String" itemvalue="field" />
+            <item index="1" class="java.lang.String" itemvalue="checkbox" />
+            <item index="2" class="java.lang.String" itemvalue="toolbar" />
+            <item index="3" class="java.lang.String" itemvalue="data-options" />
+            <item index="4" class="java.lang.String" itemvalue="url" />
+            <item index="5" class="java.lang.String" itemvalue="fit" />
+            <item index="6" class="java.lang.String" itemvalue="pagination" />
+            <item index="7" class="java.lang.String" itemvalue="rownumbers" />
+            <item index="8" class="java.lang.String" itemvalue="hidden" />
+            <item index="9" class="java.lang.String" itemvalue="iconcls" />
+            <item index="10" class="java.lang.String" itemvalue="plain" />
+            <item index="11" class="java.lang.String" itemvalue="closed" />
+            <item index="12" class="java.lang.String" itemvalue="buttons" />
+            <item index="13" class="java.lang.String" itemvalue="required" />
+            <item index="14" class="java.lang.String" itemvalue="editable" />
+            <item index="15" class="java.lang.String" itemvalue="panelheight" />
+            <item index="16" class="java.lang.String" itemvalue="fitcolumns" />
+            <item index="17" class="java.lang.String" itemvalue="formatter" />
+            <item index="18" class="java.lang.String" itemvalue="editor" />
+            <item index="19" class="java.lang.String" itemvalue="idfield" />
+            <item index="20" class="java.lang.String" itemvalue="singleselect" />
+            <item index="21" class="java.lang.String" itemvalue="validtype" />
+            <item index="22" class="java.lang.String" itemvalue="region" />
+            <item index="23" class="java.lang.String" itemvalue="border" />
+            <item index="24" class="java.lang.String" itemvalue="split" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="table" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSJQueryEfficiency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnusedLocalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
